@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/8/2025.
-//
-
 #include "FoodOrder.h"
 #include <string.h>
 #include <iostream>
@@ -71,3 +67,4 @@ namespace seneca {
         return *this;
     }
 }
+
