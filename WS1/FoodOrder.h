@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/8/2025.
-//
-
 #ifndef SENECA_FOODORDER_H
 #define SENECA_FOODORDER_H
 #include <iostream>
@@ -28,3 +24,4 @@ namespace seneca {
     };
 }
 #endif //FOODORDER_H
+
