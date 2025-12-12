@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/10/2025.
-//
-
 #ifndef SENECA_PROTEINDATABASE_H
 #define SENECA_PROTEINDATABASE_H
 #include <string>
@@ -28,3 +24,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_PROTEINDATABASE_H
+
