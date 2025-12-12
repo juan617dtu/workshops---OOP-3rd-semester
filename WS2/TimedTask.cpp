@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/10/2025.
-//
-
 #include "TimedTask.h"
 
 namespace seneca {
@@ -36,3 +32,4 @@ namespace seneca {
         return os;
     }
 }
+
