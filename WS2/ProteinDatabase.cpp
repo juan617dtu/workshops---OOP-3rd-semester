@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/10/2025.
-//
-
 #include "ProteinDatabase.h"
 #include <fstream>
 
@@ -107,3 +103,4 @@ namespace seneca {
     }
 
 }
+
