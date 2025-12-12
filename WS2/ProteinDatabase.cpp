@@ -1,3 +1,4 @@
+//Program arguments ws protein_sequences.txt
 #include "ProteinDatabase.h"
 #include <fstream>
 
@@ -103,4 +104,5 @@ namespace seneca {
     }
 
 }
+
 
