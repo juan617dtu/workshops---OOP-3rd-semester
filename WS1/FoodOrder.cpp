@@ -1,3 +1,4 @@
+//Program arguments: ws day1.txt missing.txt day2.txt
 #include "FoodOrder.h"
 #include <string.h>
 #include <iostream>
@@ -67,4 +68,5 @@ namespace seneca {
         return *this;
     }
 }
+
 
