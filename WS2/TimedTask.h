@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/10/2025.
-//
-
 #ifndef SENECA_TIMEDTASK_H
 #define SENECA_TIMEDTASK_H
 #include <chrono>
@@ -28,3 +24,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_TIMEDTASK_H
+
