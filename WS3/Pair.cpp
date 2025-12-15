@@ -1,7 +1,4 @@
-//
-// Created by masti on 12/12/2025.
-//
-
+//Program arguments: ws
 #include "Pair.h"
 #include <iomanip>
 
@@ -17,3 +14,4 @@ namespace seneca {
         return os;
     }
 }
+
