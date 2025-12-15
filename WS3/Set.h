@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/12/2025.
-//
-
 #ifndef SENECA_SET_H
 #define SENECA_SET_H
 #include <cmath>
@@ -33,3 +29,4 @@ namespace seneca {
 
 }
 #endif //SENECA_SET_H
+
