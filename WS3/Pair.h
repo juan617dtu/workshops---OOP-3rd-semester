@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/12/2025.
-//
-
 #ifndef SENECA_PAIR_H
 #define SENECA_PAIR_H
 #include <string>
@@ -27,3 +23,4 @@ namespace seneca {
 	};
 }
 #endif //SENECA_PAIR_H
+
