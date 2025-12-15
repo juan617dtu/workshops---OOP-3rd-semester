@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/12/2025.
-//
-
 #ifndef SENECA_COLLECTION_H
 #define SENECA_COLLECTION_H
 #include "Pair.h"
@@ -46,3 +42,4 @@ namespace seneca {
     Pair Collection<Pair, 100>::m_default = Pair("No Key", "No Value");
 }
 #endif //SENECA_COLLECTION_H
+
