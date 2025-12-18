@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/16/2025.
-//
-
 #ifndef SENECA_SETTINGS_H
 #define SENECA_SETTINGS_H
 #include <string>
@@ -16,3 +12,4 @@ namespace seneca {
     } extern g_settings;
 }
 #endif //SENECA_SETTINGS_H
+
