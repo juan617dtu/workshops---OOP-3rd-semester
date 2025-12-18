@@ -1,6 +1,4 @@
-//
-// Created by masti on 12/17/2025.
-//
+//Program arguments: asgn english_large.csv english_small.csv
 #include <fstream>
 #include <sstream>
 #include <iostream>
@@ -134,3 +132,4 @@ namespace seneca {
         if (!found) std::cout << "Word '" << word << "' was not found in the dictionary.\n";
     }
 }
+
