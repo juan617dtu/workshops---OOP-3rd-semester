@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/17/2025.
-//
-
 #include "timeMonitor.h"
 
 namespace seneca {
@@ -18,5 +14,6 @@ namespace seneca {
         Event event{m_event_name, duration};
         return event;
     }
+
 
 }
