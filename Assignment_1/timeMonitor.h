@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/17/2025.
-//
-
 #ifndef SENECA_TIMEMONITOR_H
 #define SENECA_TIMEMONITOR_H
 #include "event.h"
@@ -20,3 +16,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_TIMEMONITOR_H
+
