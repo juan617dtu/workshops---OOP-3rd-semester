@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/16/2025.
-//
-
 #include "event.h"
 #include "settings.h"
 
@@ -22,5 +18,6 @@ namespace seneca {
         else { os << std::setw(11) << event.m_duration << ' ' << g_settings.m_time_units; }//"nanoseconds"
         return os;
     }
+
 
 }
