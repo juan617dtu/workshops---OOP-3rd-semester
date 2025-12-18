@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/16/2025.
-//
-
 #ifndef SENECA_EVENT_H
 #define SENECA_EVENT_H
 #include <chrono>
@@ -22,3 +18,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_EVENT_H
+
