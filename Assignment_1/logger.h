@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/16/2025.
-//
-
 #ifndef SENECA_LOGGER_H
 #define SENECA_LOGGER_H
 #include "event.h"
@@ -27,3 +23,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_LOGGER_H
+
