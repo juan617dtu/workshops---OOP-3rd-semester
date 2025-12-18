@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/17/2025.
-//
-
 #ifndef SENECA_DICTIONARY_H
 #define SENECA_DICTIONARY_H
 #include <string>
@@ -45,3 +41,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_DICTIONARY_H
+
