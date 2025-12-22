@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/19/2025.
-//
-
 #include <iostream>
 #include "shoppingCart.h"
 
@@ -95,4 +91,5 @@ namespace seneca {
         os << "--------------------------\n";
         return os;
     }
+
 }
