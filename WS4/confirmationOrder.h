@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/22/2025.
-//
-
 #ifndef SENECA_CONFIRMATIONORDER_H
 #define SENECA_CONFIRMATIONORDER_H
 #include "toy.h"
@@ -27,3 +23,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_CONFIRMATIONORDER_H
+
