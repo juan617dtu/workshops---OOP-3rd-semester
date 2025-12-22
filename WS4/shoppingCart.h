@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/19/2025.
-//
-
 #ifndef SENECA_SHOPPINGCART_H
 #define SENECA_SHOPPINGCART_H
 #include <string>
@@ -28,3 +24,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_SHOPPINGCART_H
+
