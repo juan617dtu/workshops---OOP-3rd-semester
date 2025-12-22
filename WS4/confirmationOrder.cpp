@@ -1,6 +1,4 @@
-//
-// Created by masti on 12/22/2025.
-//
+//Program arguments: ws data.txt
 
 #include "confirmationOrder.h"
 #include <iostream>
@@ -101,5 +99,6 @@ namespace seneca {
         os << "--------------------------\n";
         return os;
     }
+
 
 }
