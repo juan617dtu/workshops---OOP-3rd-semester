@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/19/2025.
-//
-
 #ifndef SENECA_TOY_H
 #define SENECA_TOY_H
 #define HST 0.13
@@ -27,3 +23,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_TOY_H
+
