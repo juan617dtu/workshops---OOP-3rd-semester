@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/19/2025.
-//
-
 #include "toy.h"
 #include <regex>
 #include <iomanip>
@@ -62,3 +58,4 @@ namespace seneca {
     }
 
 }
+
