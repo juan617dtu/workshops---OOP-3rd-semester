@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/26/2025.
-//
-
 #ifndef SENECA_VERIFYIDENTITYPLUGIN_H
 #define SENECA_VERIFYIDENTITYPLUGIN_H
 #include <string>
@@ -20,3 +16,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_VERIFYIDENTITYPLUGIN_H
+
