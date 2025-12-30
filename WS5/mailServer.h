@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/26/2025.
-//
-
 #ifndef SENECA_MAILSERVER_H
 #define SENECA_MAILSERVER_H
 #include <string>
@@ -37,3 +33,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_MAILSERVER_H
+
