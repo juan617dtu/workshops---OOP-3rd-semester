@@ -1,3 +1,4 @@
+//program arguments: ws emails.csv identities.txt spam.txt
 #include "mailServer.h"
 #include <iomanip>
 #include <iostream>
@@ -102,4 +103,5 @@ namespace seneca {
         }
     }
 }
+
 
