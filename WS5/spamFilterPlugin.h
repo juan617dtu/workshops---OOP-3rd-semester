@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/24/2025.
-//
-
 #ifndef SENECA_SPAMFILTERPLUGIN_H
 #define SENECA_SPAMFILTERPLUGIN_H
 #include <string>
@@ -24,3 +20,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_SPAMFILTERPLUGIN_H
+
