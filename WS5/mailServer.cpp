@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/26/2025.
-//
-
 #include "mailServer.h"
 #include <iomanip>
 #include <iostream>
@@ -106,3 +102,4 @@ namespace seneca {
         }
     }
 }
+
