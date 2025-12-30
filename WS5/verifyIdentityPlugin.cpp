@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/26/2025.
-//
-
 #include "verifyIdentityPlugin.h"
 #include <fstream>
 #include <iostream>
@@ -40,3 +36,4 @@ namespace seneca {
                 std::cout << std::endl;
         }
 }
+
