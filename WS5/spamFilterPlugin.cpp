@@ -1,7 +1,3 @@
-//
-// Created by masti on 12/24/2025.
-//
-
 #include "spamFilterPlugin.h"
 #include <fstream>
 #include <iostream>
@@ -32,3 +28,4 @@ namespace seneca {
         std::cout << "[Spam Filter Plugin] Identified " << m_spam_emails << " spam messages.\n";
     }
 }
+
