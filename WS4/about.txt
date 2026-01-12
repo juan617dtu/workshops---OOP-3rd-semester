@@ -1,0 +1,3 @@
+a shopping cart for an online toy store. 
+Children who use the application will add some toys to the shopping cart. 
+Before an order is placed, it must be approved by the parents of the child; there is a confirmation order module that is responsible to inform the parents about the child order and retrieve their approval before proceeding to the checkout.
