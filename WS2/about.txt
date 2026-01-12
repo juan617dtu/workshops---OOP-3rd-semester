@@ -1,1 +1,10 @@
 working with a large dynamically allocated array of C++ Standard Library strings and compare the performance of copy and move operations on that collection.
+
+This application loads a set of proteins from a file in UniProtKB format (UniProt KnowledgeBase), stores them in memory, and performs some operations on them.
+
+A protein is a linear sequence of amino acids. This program will use the one-letter representation of each amino acid; thus a protein will be represented as a string where each letter identifies an amino acid.
+
+Each entry in the UniProtKB file has a header containing information about the protein, folowed by the sequence of letters representing the amino acids. The structure of the header is:
+>db|UniqueIdentifier|EntryName ProteinName OS=OrganismName OX=OrganismIdentifier [GN=GeneName ]PE=ProteinExistence SV=SequenceVersion
+
+The protein sequence will begin on the next line after the header line for some number of lines. Each line (except the last one) will contain exactly 60 characters.
