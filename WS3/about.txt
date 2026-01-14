@@ -1,3 +1,4 @@
 design and code of several class templates and test them on different instantiations.
 
-this application has a class that manages a collection of objects of any type. Based on this class, there is another one that doesn't allow duplicated objects.
+this application has a class that manages a collection of objects of any type. Based on this class, there is another one that doesn't 
+allow duplicated objects.
