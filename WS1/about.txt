@@ -1,5 +1,7 @@
 implementation of aspects of linkage, storage duration, namespaces, header guards, and operating system interfaces.
 
-This application records food orders made by customers and calculates the price with relation to the current tax rate and special daily discounts on certain items.
+This application records food orders made by customers and calculates the price with relation to the current tax rate and special daily 
+discounts on certain items.
 
-The application loads the order information from multiple files. Each file read represents orders taken from a certain day. The orders are handled somewhat differently depending if they are an In-House order or Delivery order.
+The application loads the order information from multiple files. Each file read represents orders taken from a certain day. The orders are 
+handled somewhat differently depending if they are an In-House order or Delivery order.
