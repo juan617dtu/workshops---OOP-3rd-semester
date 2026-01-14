@@ -2,4 +2,5 @@ simulation of a mailing system.
 The mail server will store the emails of a user and will report errors when the email is addressed to a different user. 
 The code contains a function object and a lambda expression, and handle exceptions.
 
-To process incoming emails, the design allows the utilization of plugins that will check for spam or validate the identity of some senders as trusted people.
+To process incoming emails, the design allows the utilization of plugins that will check for spam or validate the identity of some senders 
+as trusted people.
