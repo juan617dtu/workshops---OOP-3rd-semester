@@ -102,8 +102,8 @@ namespace seneca {
         m_ids = nullptr;
         m_amino_acids = nullptr;
     }
-
 }
+
 
 
 
