@@ -2,7 +2,7 @@ a dictionary application that will allow the client to find the definition(s) of
 The application will load the list of words and their definitions from a text file; although the provided file is for English language, 
 the application should work with dictionary in other languages.
 
-This application loads a set of words from a file in csv format (comma separated values), stores them in memory, and performs some operations 
-on them. The application will also measure the duration of certain operations, allowing the user to compare their performance. 
+This application loads a set of words from a file in csv format (comma separated values), stores them in memory, and performs some 
+operations on them. The application will also measure the duration of certain operations, allowing the user to compare their performance. 
 The time it takes to complete an operation will depend on the machine where the application is running; however, the relative difference 
 in performance between various operation should hold regardless of the underlying hardware.
