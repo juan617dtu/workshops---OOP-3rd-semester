@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/26/2026.
-//
-
 #ifndef SENECA_DIRECTORY_H
 #define SENECA_DIRECTORY_H
 #include <vector>
@@ -35,3 +31,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_DIRECTORY_H
+
