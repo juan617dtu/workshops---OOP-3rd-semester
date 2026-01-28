@@ -1,0 +1,4 @@
+an application that simulates a UNIX-like file system. 
+custom types represent the file and folder concept; 
+the application will load a folder structure from a text file and then support certain operations: search for a file, calculate the total size of 
+a folder, remove a file, navigate in the file system.
