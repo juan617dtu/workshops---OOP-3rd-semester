@@ -23,15 +23,14 @@ namespace seneca {
         }
         std::string line, path;
         while (std::getline(file, line)) {
-            size_t path_terminator = line.find('|');
-            if (path_terminator != std::string::npos) {
+            if (const size_t path_terminator = line.find('|'); path_terminator != std::string::npos) {
                 path = trim(line.substr(0, path_terminator));
                 line = trim(line.substr(path_terminator + 1));
             }
             else path = trim(line);
             Directory* current = m_root;
             while (!path.empty()) {
-                size_t separator = path.find('/');
+                const size_t separator = path.find('/');
                 Resource* resource;
                 if (separator != std::string::npos) {
                     std::string name = trim(path.substr(0, separator) + '/');
@@ -101,4 +100,3 @@ namespace seneca {
         m_root = nullptr;
     }
 }
-
