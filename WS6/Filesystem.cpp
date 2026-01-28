@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/27/2026.
-//
-
 #include "Filesystem.h"
 #include "File.h"
 #include <fstream>
@@ -105,3 +101,4 @@ namespace seneca {
         m_root = nullptr;
     }
 }
+
