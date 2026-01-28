@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/27/2026.
-//
-
 #ifndef SENECA_FILESYSTEM_H
 #define SENECA_FILESYSTEM_H
 #include "Directory.h"
@@ -28,3 +24,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_FILESYSTEM_H
+
