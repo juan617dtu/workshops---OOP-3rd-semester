@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/26/2026.
-//
-
 #ifndef SENECA_FILE_H
 #define SENECA_FILE_H
 #include "Resource.h"
@@ -24,3 +20,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_FILE_H
+
