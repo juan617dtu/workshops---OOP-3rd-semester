@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/26/2026.
-//
-
 #include "File.h"
 
 namespace seneca {
@@ -35,4 +31,5 @@ namespace seneca {
 
         return m_contents.size();
     }
+
 }
