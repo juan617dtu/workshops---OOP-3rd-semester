@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/2/2026.
-//
-
 #include "team.h"
 
 namespace seneca {
@@ -97,4 +93,5 @@ namespace seneca {
         }
         else std::cout << "No team.\n";
     }
+
 }
