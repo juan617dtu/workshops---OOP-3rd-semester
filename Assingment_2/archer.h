@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/30/2026.
-//
-
 #ifndef SENECA_ARCHER_H
 #define SENECA_ARCHER_H
 #include "characterTpl.h"
@@ -55,3 +51,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_ARCHER_H
+
