@@ -1,0 +1,6 @@
+an application that implements a rudimentary structure of an RPG game. The game features multiple classes of characters, each one capable of 
+using weapons and special abilities in their quest to defeat their enemies. Each player is part of a team and can join a guild for extra 
+bonuses.
+
+This application implements three different classes of characters that the player can choose at the begining of the game and will simulate 
+the fight between two players.
