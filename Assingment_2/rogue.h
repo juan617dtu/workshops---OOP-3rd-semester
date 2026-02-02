@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/30/2026.
-//
-
 #ifndef SENECA_ROGUE_H
 #define SENECA_ROGUE_H
 #include "characterTpl.h"
@@ -62,3 +58,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_ROGUE_H
+
