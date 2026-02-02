@@ -1,4 +1,5 @@
 // Program arguments: asgn
+
 #include "guild.h"
 
 namespace seneca {
@@ -99,4 +100,5 @@ namespace seneca {
     }
 
 }
+
 
