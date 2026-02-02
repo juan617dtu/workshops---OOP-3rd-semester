@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/2/2026.
-//
-
 #ifndef SENECA_GUILD_H
 #define SENECA_GUILD_H
 #include "character.h"
@@ -30,3 +26,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_GUILD_H
+
