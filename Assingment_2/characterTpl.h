@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/29/2026.
-//
-
 #ifndef SENECA_CHARACTERTPL_H
 #define SENECA_CHARACTERTPL_H
 #include "character.h"
@@ -54,3 +50,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_CHARACTERTPL_H
+
