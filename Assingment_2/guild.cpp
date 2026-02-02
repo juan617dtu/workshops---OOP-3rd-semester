@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/2/2026.
-//
-
 #include "guild.h"
 
 namespace seneca {
@@ -100,4 +96,5 @@ namespace seneca {
         }
         else std::cout << "No guild.\n";
     }
+
 }
