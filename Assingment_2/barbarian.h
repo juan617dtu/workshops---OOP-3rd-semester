@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/29/2026.
-//
-
 #ifndef SENECA_BARBARIAN_H
 #define SENECA_BARBARIAN_H
 #include "characterTpl.h"
@@ -60,3 +56,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_BARBARIAN_H
+
