@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/3/2026.
-//
-
 #ifndef SENECA_SONGCOLLECTION_H
 #define SENECA_SONGCOLLECTION_H
 #include <list>
@@ -36,3 +32,4 @@ namespace seneca {
     std::ostream& operator<<(std::ostream& out, const Song& theSong);
 }
 #endif //SENECA_SONGCOLLECTION_H
+
