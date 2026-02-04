@@ -1,6 +1,4 @@
-//
-// Created by masti on 2/3/2026.
-//
+// Program arguments: ws songs.txt
 
 #include "SongCollection.h"
 #include <fstream>
@@ -108,3 +106,4 @@ namespace seneca {
         return out;
     }
 }
+
