@@ -1,0 +1,7 @@
+an application that loads from a file information about an unknown number of songs, stores the songs in an STL container and then performs some operations on the collection:
+
+displays all the songs to screen in an easy-to-read format
+sorts the collection using various criteria
+checks if there are any songs of an artist
+creates a new collection containing the songs of an artist
+updates the information about the songs
