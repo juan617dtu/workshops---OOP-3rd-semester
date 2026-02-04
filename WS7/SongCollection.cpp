@@ -80,7 +80,7 @@ namespace seneca {
     }
     bool SongCollection::inCollection(const std::string &artist) const {
 
-        const bool result = std::any_of(m_songs.begin(), m_songs.end(), [&artist](const Song& song) {
+        const bool result = std::any_of(m_songs.begin(), m_songs.end(), [artist](const Song& song) {
             return song.m_artist == artist;
         });
         return result;
@@ -89,7 +89,7 @@ namespace seneca {
 
         std::list<Song> result;
         std::copy_if(m_songs.begin(), m_songs.end(), std::back_inserter(result),
-            [&artist](const Song& song) {
+            [artist](const Song& song) {
                 return song.m_artist == artist;
             });
         return result;
@@ -106,4 +106,5 @@ namespace seneca {
         return out;
     }
 }
+
 
