@@ -1,6 +1,4 @@
-//
-// Created by masti on 2/5/2026.
-//
+// Program arguments: ws data_str.txt data_num.txt
 
 #ifndef SENECA_DATABASE_H
 #define SENECA_DATABASE_H
@@ -103,3 +101,4 @@ namespace seneca {
     }
 }
 #endif //SENECA_DATABASE_H
+
