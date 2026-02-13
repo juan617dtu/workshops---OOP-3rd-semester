@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/10/2026.
-//
-
 #ifndef SENECA_TVSHOW_H
 #define SENECA_TVSHOW_H
 #include <list>
@@ -72,3 +68,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_TVSHOW_H
+
