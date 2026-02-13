@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/11/2026.
-//
-
 #include "spellChecker.h"
 #include <fstream>
 #include <iomanip>
@@ -46,3 +42,4 @@ namespace seneca {
         }
     }
 }
+
