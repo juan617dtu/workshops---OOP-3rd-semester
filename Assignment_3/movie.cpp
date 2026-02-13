@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/10/2026.
-//
-
 #include "movie.h"
 #include "settings.h"
 #include <iomanip>
@@ -65,4 +61,5 @@ namespace seneca {
         Movie *movie = new Movie(title, summary, year);
         return movie;
     }
+
 }
