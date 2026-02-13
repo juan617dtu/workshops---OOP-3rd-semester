@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/9/2026.
-//
-
 #ifndef SENECA_SETTINGS_H
 #define SENECA_SETTINGS_H
 
@@ -14,3 +10,4 @@ namespace seneca {
     extern Settings g_settings;
 }
 #endif //SENECA_SETTINGS_H
+
