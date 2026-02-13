@@ -4,7 +4,7 @@
 
 namespace seneca {
 
-    class Movie : public MediaItem {
+    class Movie final : public MediaItem {
 
         Movie(const std::string& title, const std::string& summary, unsigned short year);
 
@@ -15,4 +15,5 @@ namespace seneca {
     };
 }
 #endif //SENECA_MOVIE_H
+
 
