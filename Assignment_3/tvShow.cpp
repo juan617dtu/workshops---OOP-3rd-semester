@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/10/2026.
-//
-
 #include "tvShow.h"
 #include <algorithm>
 #include "settings.h"
@@ -124,3 +120,4 @@ namespace seneca {
         return result;
     }
 }
+
