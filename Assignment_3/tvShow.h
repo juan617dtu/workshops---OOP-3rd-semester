@@ -7,7 +7,7 @@
 
 namespace seneca {
 
-    class TvShow : public MediaItem {
+    class TvShow final : public MediaItem {
 
         std::string m_id{};
         struct TvEpisode
@@ -68,4 +68,5 @@ namespace seneca {
     };
 }
 #endif //SENECA_TVSHOW_H
+
 
