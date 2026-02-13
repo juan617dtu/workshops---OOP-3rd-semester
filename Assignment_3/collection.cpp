@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/11/2026.
-//
-
 #include "collection.h"
 #include <algorithm>
 
@@ -85,3 +81,4 @@ namespace seneca {
         return os;
     }
 }
+
