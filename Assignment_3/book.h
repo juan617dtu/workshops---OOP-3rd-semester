@@ -4,7 +4,7 @@
 
 namespace seneca {
 
-    class Book : public MediaItem {
+    class Book final : public MediaItem {
 
         std::string m_author{};
         std::string m_country{};
@@ -19,4 +19,5 @@ namespace seneca {
     };
 }
 #endif //SENECA_BOOK_H
+
 
