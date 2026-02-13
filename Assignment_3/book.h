@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/9/2026.
-//
-
 #ifndef SENECA_BOOK_H
 #define SENECA_BOOK_H
 #include "mediaItem.h"
@@ -23,3 +19,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_BOOK_H
+
