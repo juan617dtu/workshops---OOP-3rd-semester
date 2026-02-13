@@ -1,0 +1,2 @@
+this application loads from files information about books, movies, and TV shows. creates objects with the loaded information and manage those objects using STL containers and algorithms. 
+If something goes wrong during the execution, the app reports it to the clients using exceptions.
