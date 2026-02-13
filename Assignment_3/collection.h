@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/11/2026.
-//
-
 #ifndef SENECA_COLLECTION_H
 #define SENECA_COLLECTION_H
 #include <vector>
@@ -35,3 +31,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_COLLECTION_H
+
