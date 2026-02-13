@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/11/2026.
-//
-
 #ifndef SENECA_SPELLCHECKER_H
 #define SENECA_SPELLCHECKER_H
 #define ARRAY_SIZE 6
@@ -23,3 +19,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_SPELLCHECKER_H
+
