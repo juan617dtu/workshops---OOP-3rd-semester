@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/10/2026.
-//
-
 #ifndef SENECA_MOVIE_H
 #define SENECA_MOVIE_H
 #include "mediaItem.h"
@@ -19,3 +15,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_MOVIE_H
+
