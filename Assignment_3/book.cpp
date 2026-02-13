@@ -1,6 +1,4 @@
-//
-// Created by masti on 2/9/2026.
-//
+// Program arguments: asgn
 
 #include "book.h"
 #include "settings.h"
@@ -86,3 +84,4 @@ namespace seneca {
     }
 
 }
+
