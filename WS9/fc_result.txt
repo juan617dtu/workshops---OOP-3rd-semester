@@ -1,0 +1,3 @@
+fc /b data_int.bin data_int_target.bin
+Comparing files data_int.bin and DATA_INT_TARGET.BIN
+FC: no differences encountered
