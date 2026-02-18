@@ -1,0 +1,1 @@
+this program loads numbers stored in a binary file and uses multiple threads to compute some statistics on the data loaded from file.
