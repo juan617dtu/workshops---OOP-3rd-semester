@@ -1,4 +1,5 @@
 // Exercise - Multi-Threading, Thread Class
+// Program arguments: ws data_int.bin data_int_target.bin
 
 #include <iostream>
 #include <fstream>
@@ -131,4 +132,5 @@ namespace seneca
 		outfile.write(reinterpret_cast<char*>(data), total_items * sizeof(int));
 		return 0;
 	}
+
 }
