@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/20/2026.
-//
-
 #ifndef SENECA_STATION_H
 #define SENECA_STATION_H
 #include <string>
@@ -29,3 +25,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_STATION_H
+
