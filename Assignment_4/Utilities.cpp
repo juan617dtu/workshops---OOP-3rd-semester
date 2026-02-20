@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/20/2026.
-//
-
 #include "Utilities.h"
 #include <regex>
 #include <stdexcept>
@@ -59,3 +55,4 @@ namespace seneca {
         return m_delimiter;
     }
 }
+
