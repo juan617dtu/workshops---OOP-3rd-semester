@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/20/2026.
-//
-
 #ifndef SENECA_UTILITIES_H
 #define SENECA_UTILITIES_H
 #include <string>
@@ -24,3 +20,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_UTILITIES_H
+
