@@ -1,12 +1,9 @@
-//
-// Created by masti on 2/23/2026.
-//
-
 #ifndef SENECA_CUSTOMERORDER_H
 #define SENECA_CUSTOMERORDER_H
 #include "Station.h"
 #include <iostream>
 #include <string>
+#include <utility>
 
 namespace seneca {
 
@@ -16,7 +13,7 @@ namespace seneca {
         size_t m_serialNumber{0};
         bool m_isFilled{false};
 
-        Item(const std::string& src) : m_itemName(src) {};
+        Item(std::string  src) : m_itemName(std::move(src)) {};
     };
     class CustomerOrder {
 
@@ -29,15 +26,15 @@ namespace seneca {
     public:
 
         CustomerOrder() = default;
-        CustomerOrder(const std::string& str);
+        explicit CustomerOrder(const std::string& str);
         CustomerOrder(const CustomerOrder& orig);
         CustomerOrder& operator=(const CustomerOrder& orig) = delete;
         CustomerOrder(CustomerOrder&& orig) noexcept;
         CustomerOrder& operator=(CustomerOrder&& orig) noexcept;
         ~CustomerOrder();
-        bool isOrderFilled() const;
-        bool isItemFilled(const std::string& itemName) const;
-        void fillItem(Station& station, std::ostream& os);
+        [[nodiscard]] bool isOrderFilled() const;
+        [[nodiscard]] bool isItemFilled(const std::string& itemName) const;
+        void fillItem(Station& station, std::ostream& os) const;
         void display(std::ostream& os) const;
     };
 }
