@@ -23,7 +23,7 @@ namespace seneca {
         m_cntItem = item_count;
         if (m_cntItem > 0) m_lstItem = new Item *[m_cntItem];
         for (int i = 0u; i < m_cntItem; ++i) {
-            Item item = utilities.extractToken(str, next_pos, more);
+            const Item item = utilities.extractToken(str, next_pos, more);
             m_lstItem[i] = new Item(item);
         }
         if (utilities.getFieldWidth() > m_widthField) m_widthField = utilities.getFieldWidth();
@@ -75,7 +75,7 @@ namespace seneca {
         }
         return true;
     }
-    void CustomerOrder::fillItem(Station &station, std::ostream &os) {
+    void CustomerOrder::fillItem(Station &station, std::ostream &os) const {
 
         for (size_t i = 0u; i < m_cntItem; ++i) {
             if (m_lstItem[i]->m_itemName == station.getItemName() and !m_lstItem[i]->m_isFilled) {
@@ -103,4 +103,3 @@ namespace seneca {
         }
     }
 }
-
