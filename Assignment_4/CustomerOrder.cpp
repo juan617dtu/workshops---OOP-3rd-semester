@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/23/2026.
-//
-
 #include "CustomerOrder.h"
 #include "Utilities.h"
 #include <iomanip>
@@ -107,3 +103,4 @@ namespace seneca {
         }
     }
 }
+
