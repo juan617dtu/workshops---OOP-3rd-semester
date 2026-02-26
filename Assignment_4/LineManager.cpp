@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/24/2026.
-//
-
 #include "LineManager.h"
 #include <algorithm>
 #include <fstream>
@@ -83,3 +79,4 @@ namespace seneca {
         });
     }
 }
+
