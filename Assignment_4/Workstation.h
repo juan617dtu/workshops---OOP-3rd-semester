@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/24/2026.
-//
-
 #ifndef SENECA_WORKSTATION_H
 #define SENECA_WORKSTATION_H
 #include "CustomerOrder.h"
@@ -34,3 +30,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_WORKSTATION_H
+
