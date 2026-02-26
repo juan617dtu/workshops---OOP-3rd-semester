@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/24/2026.
-//
-
 #include "Workstation.h"
 
 namespace seneca {
@@ -55,3 +51,4 @@ namespace seneca {
         return *this;
     }
 }
+
