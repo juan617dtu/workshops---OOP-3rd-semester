@@ -1,7 +1,3 @@
-//
-// Created by masti on 2/24/2026.
-//
-
 #ifndef SENECA_LINEMANAGER_H
 #define SENECA_LINEMANAGER_H
 #include "Workstation.h"
@@ -24,3 +20,4 @@ namespace seneca {
     };
 }
 #endif //SENECA_LINEMANAGER_H
+
