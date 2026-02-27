@@ -1,3 +1,5 @@
+Functions and Error Handling: A Mailing System
+
 simulation of a mailing system. 
 The mail server will store the emails of a user and will report errors when the email is addressed to a different user. 
 The code contains a function object and a lambda expression, and handle exceptions.
