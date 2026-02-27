@@ -1,4 +1,5 @@
-an application that loads from a file information about an unknown number of songs, stores the songs in an STL container and then performs some operations on the collection:
+an application that loads from a file information about an unknown number of songs, stores the songs in an STL container and then 
+performs some operations on the collection:
 
 displays all the songs to screen in an easy-to-read format
 sorts the collection using various criteria
