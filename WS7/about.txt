@@ -1,3 +1,5 @@
+STL Algorithms: A Collection of Songs
+
 an application that loads from a file information about an unknown number of songs, stores the songs in an STL container and then 
 performs some operations on the collection:
 
