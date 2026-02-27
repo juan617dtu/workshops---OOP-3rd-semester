@@ -1,3 +1,5 @@
+Smart Pointers: An Encrypted Database
+
 The Database module loads data from a file and stores it in some attributes; the data in the file is organized on two columns, separated by 
 a number of blanks.
 
